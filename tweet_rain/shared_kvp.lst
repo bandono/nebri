@@ -1,0 +1,11 @@
+tconsumer_secret
+"GHISomeConsumerSecret"
+
+tconsumer_key
+"JKLSomeConsumerKey"
+
+ttoken_secret
+"MNOSomeTokenSecret"
+
+ttoken
+"789-some-token"
