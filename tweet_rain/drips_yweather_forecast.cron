@@ -1,0 +1,17 @@
+# morning =====
+15 2 * * *
+check_city_forecast := "Jakarta"
+check_country_forecast := "Indonesia"
+
+30 2 * * *
+check_city_forecast := "Bogor"
+check_country_forecast := "Indonesia"
+
+# evening ====
+0 16 * * *
+check_city_forecast := "Jakarta"
+check_country_forecast := "Indonesia"
+
+20 15 * * *
+check_city_forecast := "Bogor"
+check_country_forecast := "Indonesia"
