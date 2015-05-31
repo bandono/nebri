@@ -1,0 +1,7 @@
+0 */3 * * *
+check_city_weather := "Bogor"
+check_country_weather := "Indonesia"
+
+35 */3 * * *
+check_city_weather := "Jakarta"
+check_country_weather := "Indonesia"
