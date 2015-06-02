@@ -17,7 +17,7 @@ make **Nebri drips** for the same two locations, but setting them to two times a
 and evening).
 
 Rain related codes that are used to filter the weather feeds are:
-```Code     Description
+Code     Description
 1     0     tornado
 2     1     tropical storm
 3     2     hurricane
@@ -36,7 +36,7 @@ Rain related codes that are used to filter the weather feeds are:
 
 13     38     scattered thunderstorms
 14     39     scattered thunderstorms
-15     40     scattered showers```
+15     40     scattered showers
 
 twitter processes
 =================
