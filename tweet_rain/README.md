@@ -21,20 +21,20 @@ Rain related codes that are used to filter the weather feeds are:
 Code   | Description
 ------ | -----------
 0      |  tornado
-1     tropical storm
-2     hurricane
-3     severe thunderstorms
-4     thunderstorms
-11     showers
-12     showers
-21     haze
-24     windy
-26     cloudy
-27     mostly cloudy (night)
-28     mostly cloudy (day)
-38     scattered thunderstorms
-39     scattered thunderstorms
-40     scattered showers
+1      |  tropical storm
+2      |  hurricane
+3      |  severe thunderstorms
+4      |  thunderstorms
+11     |  showers
+12     |  showers
+21     |  haze
+24     |  windy
+26     |  cloudy
+27     |  mostly cloudy (night)
+28     |  mostly cloudy (day)
+38     |  scattered thunderstorms
+39     |  scattered thunderstorms
+40     |  scattered showers
 
 twitter processes
 =================
